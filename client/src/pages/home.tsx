@@ -12,9 +12,9 @@ import {
 } from "lucide-react";
 import leafCorner from "@/assets/images/leaf-corner.png";
 import leafElement from "@/assets/images/leaf-element.png";
-import fern1 from "@/assets/images/fern-leaf-1.png";
-import fern2 from "@/assets/images/fern-leaf-2.png";
-import fern3 from "@/assets/images/fern-leaf-3.png";
+import fern1 from "@/assets/images/fern-leaf-1.svg";
+import fern2 from "@/assets/images/fern-leaf-2.svg";
+import fern3 from "@/assets/images/fern-leaf-3.svg";
 import yogaVideo from "@/assets/videos/yoga-park.mp4";
 import paperHero from "@/assets/images/paper-grain-hero.png";
 import yogaFlyer from "@assets/yoga_1769836440517.jpg";
